@@ -1,0 +1,7 @@
+streamlit
+torch
+pennylane
+numpy
+pandas
+matplotlib
+plotly
